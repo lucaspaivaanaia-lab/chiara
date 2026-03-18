@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Volumes/**)",
+      "Bash(hdiutil detach:*)",
+      "Bash(ls -la /Users/lucaspaiva/Desktop/chiara/.env*)"
+    ]
+  }
+}
